@@ -1,5 +1,7 @@
 # cerebro-osx-contacts
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/KELiON/cerebro-osx-contacts.svg)](https://greenkeeper.io/)
+
 > [Cerebro](https://cerebroapp.com) plugin to search in OSx Contacts.app
 
 ![](screenshot.png)
